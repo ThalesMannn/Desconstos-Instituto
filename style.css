@@ -134,7 +134,7 @@ fieldset {
     
     .container {
         width: 90%;
-        height: 105%;
+        height: 100%;
         overflow: hidden;
         border-radius: 16px;
         background-color: #f6ebdd;
