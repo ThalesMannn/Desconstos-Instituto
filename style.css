@@ -133,7 +133,7 @@ fieldset {
     }
     
     .container {
-        width: 94%;
+        width: 90%;
         height: 105%;
         overflow: hidden;
         border-radius: 16px;
@@ -148,7 +148,17 @@ fieldset {
         margin-top: 40px;
     }
     h1 {
-        font-size: 28px;
+        font-size: 20px;
+    }
+    .titulo {
+        font-size: 20px;
+    }
+
+    form label {
+        font-size: 17px;
+    }
+    .ebooks {
+        left: 49px;
     }
 
     
