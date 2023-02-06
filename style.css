@@ -105,7 +105,7 @@ fieldset {
 
 .ebook {
     position: relative;
-    left: 12px;
+    left: 9px;
     font-size: 0.81rem;
     text-decoration: none;
     border-radius: 5px;
@@ -115,7 +115,7 @@ fieldset {
 }
 .ebooks {
     position: relative;
-    left: 57px;
+    left: 54px;
     font-size: 0.81rem;
     text-decoration: none;
     border-radius: 5px;
@@ -135,7 +135,7 @@ fieldset {
 
 @media (max-width: 1003px) {
     .container {
-        width: 90%;
+        width: 92%;
         overflow: scroll;
     }
 }
