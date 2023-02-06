@@ -115,7 +115,7 @@ fieldset {
 }
 .ebooks {
     position: relative;
-    left: 48px;
+    left: 52px;
     font-size: 0.81rem;
     text-decoration: none;
     border-radius: 5px;
@@ -138,4 +138,9 @@ fieldset {
         width: 96%;
         overflow: scroll;
     }
+
+    .ebooks {
+        position: relative;
+        left: 48px;
+}
 }
