@@ -135,7 +135,7 @@ fieldset {
 
 @media (max-width: 1003px) {
     .container {
-        width: 35%;
+        width: 80%;
         overflow: scroll;
     }
 }
